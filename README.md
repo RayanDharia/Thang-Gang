@@ -5,4 +5,4 @@ Term: Fall 2022
 J. Crayton Pruitt Family Department of Biomedical Engineering
 University of Florida
 
-Welcome to Thang Gang's GitHub repository! All the programs used in this project are located here, as well as the final network, which boasts a 92.76% accuracy.
+Welcome to Thang Gang's GitHub repository! All the programs used in this project are located here. The training folder and the trained network will be submitted seperately through a zip file in Canvas, as they are too large.
