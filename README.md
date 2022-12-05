@@ -1,5 +1,5 @@
 # Thang-Gang
-BME3053C
+BME3053C /n
 Thang Gang Group Members: Rayan Dharia, Katie Garcia, Camryn Gerspach, Michael Olagbiyan
 Term: Fall 2022
 J. Crayton Pruitt Family Department of Biomedical Engineering
